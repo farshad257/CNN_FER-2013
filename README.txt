@@ -1,0 +1,3 @@
+A robust 5-layer CNN model tailored for facial emotion recognition on the FER-2013 dataset. 
+Leveraging data augmentation, this model effectively addresses class imbalance and achieves a validation accuracy of 76% and a test accuracy of 63%. Key features include convolutional layers with ReLU activation, max pooling for dimensionality reduction, and dropout for regularization. 
+The model's ability to extract meaningful features from facial images makes it a valuable tool for applications in human-computer interaction and affective computing.
