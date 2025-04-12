@@ -84,4 +84,5 @@ For questions or suggestions, feel free to open an issue or contact the maintain
 
 > **Author**: <span onclick="navigator.clipboard.writeText('farshadtfgh@gmail.com')" style="cursor:pointer; color:blue; text-decoration:underline;">**Farshad Tofighi**</span> (*farshad257*)  
 > **License**: MIT
-> **📧 Email: [farshadtfgh@gamil.com](mailto:farshadtfgh@gamil.com)
+
+> **Email**: [farshadtfgh@gamil.com](mailto:farshadtfgh@gamil.com)
